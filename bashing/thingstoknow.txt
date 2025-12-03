@@ -1,0 +1,16 @@
+rm is to remove files
+rm -r to remove folders
+rm -i to show user whats getting deleted
+rm -virf is the best
+v shows the file getting removed(always for printing whats happenign)
+i is for confirmation
+f is for forcefully
+
+
+mkdir -p parent/child
+this creates parents and child
+
+alias is for making shortcut for a command
+eg allias gs='git status'
+unalias to remove it
+eg unalias gs
