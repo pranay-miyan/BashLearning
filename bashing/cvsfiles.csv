@@ -1,0 +1,7 @@
+id,Created,Amount,Currency,Description,Customer
+1,2024-12-01,250,USD,Payment,Alice Johnson
+2,2024-12-02,300,EUR,Refund,Robert Wilson
+3,2024-12-03,125,GBP,Purchase,Sophia Martinez
+4,2024-12-04,400,USD,Subscription,David Lee
+5,2024-12-05,275,JPY,Payment,Olivia Taylor
+6,2024-12-06,350,USD,Purchase,James Anderson
